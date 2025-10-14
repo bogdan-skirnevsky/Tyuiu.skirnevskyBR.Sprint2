@@ -24,7 +24,7 @@ namespace Tyuiu.skirnevskyBR.Sprint2.Task5.V6.Lib
                     suit = "треф";
                     break;
                 case 3:
-                    suit = "бубен";
+                    suit = "бубен"; 
                     break;
                 case 4:
                     suit = "черв";

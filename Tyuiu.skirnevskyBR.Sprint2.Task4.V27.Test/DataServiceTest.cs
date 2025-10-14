@@ -1,7 +1,7 @@
 ﻿using Tyuiu.skirnevskyBR.Sprint2.Task4.V27.Lib;
-namespace TestProject1Tyuiu.skirnevskyBR.Sprint2.Task4.V27.Test
+namespace Tyuiu.skirnevskyBR.Sprint2.Task4.V27.Test
 {
-    [TestClass]
+    [TestClass] 
     public class DataServiceTest
     {
         [TestMethod]

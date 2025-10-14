@@ -17,4 +17,4 @@ namespace Tyuiu.skirnevskyBR.Sprint2.Task2.V9.Test
             Assert.AreEqual(wait, res);
         }
     }
-}
+} 

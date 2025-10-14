@@ -14,7 +14,6 @@ namespace Tyuiu.skirnevskyBR.Sprint2.Task5.V6.Lib
             string suit;
             string rank;
 
-            // Определяем масть
             switch (value1)
             {
                 case 1:
@@ -33,7 +32,6 @@ namespace Tyuiu.skirnevskyBR.Sprint2.Task5.V6.Lib
                     throw new ArgumentException($"Неизвестная масть: {value1}");
             }
 
-            // Определяем достоинство
             switch (value2)
             {
                 case 6:
